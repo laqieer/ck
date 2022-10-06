@@ -8,7 +8,7 @@
 		"mesonbuild.configureOnOpen": true,
 		"mesonbuild.buildFolder": "mesonbuild/debug/linux",
 		"mesonbuild.configureOptions": [
-			"--cross-file=meson.clang.cfg"
+			"--native-file=meson.clang.cfg"
 		],
 		"files.associations": {
 			"os_types.h": "c",
